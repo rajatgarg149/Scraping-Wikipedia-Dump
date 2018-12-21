@@ -1,0 +1,136 @@
+Software engineering
+Software engineering is the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software, and the study of these approaches; that is, the application of engineering to software.[1]
+The term software engineering first appeared in the 1968 NATO Software Engineering Conference and was meant to provoke thought regarding the current "software crisis" at the time.[2][3] Since then, it has continued as a profession and field of study dedicated to creating software that is of higher quality, more affordable, maintainable, and quicker to build. Since the field is still relatively young compared to its sister fields of engineering, there is still much debate around what software engineering actually is, and if it conforms to the classical definition of engineering. It has grown organically out of the limitations of viewing software as just programming.
+Software development, a much used and more generic term, does not necessarily subsume the engineering paradigm. Although it is questionable what impact it has had on actual software development over the last more than 40 years,[4][5] the field's future looks bright according to Money Magazine and Salary.com who rated "software engineering" as the best job in the United States in 2006.[6]
+
+Contents
+1 History
+2 Profession
+
+2.1 Employment
+2.2 Certification
+2.3 Impact of globalization
+
+
+2.1 Employment
+2.2 Certification
+2.3 Impact of globalization
+3 Education
+4 Sub-disciplines
+5 Related disciplines
+
+5.1 Computer science
+5.2 Project management
+5.3 Systems engineering
+
+
+5.1 Computer science
+5.2 Project management
+5.3 Systems engineering
+6 See also
+7 References
+8 Further reading
+9 External links
+
+History
+When the first modern digital computers appeared in the early 1940s,[7] the instructions to make them operate were wired into the machine. Practitioners quickly realized that this design was not flexible and came up with the "stored program architecture" or von Neumann architecture. Thus the first division between "hardware" and "software" began with abstraction being used to deal with the complexity of computing.
+Programming languages started to appear in the 1950s and this was also another major step in abstraction. Major languages such as Fortran, ALGOL, and Cobol were released in the late 1950s to deal with scientific, algorithmic, and business problems respectively. E.W. Dijkstra wrote his seminal paper, "Go To Statement Considered Harmful",[8] in 1968 and David Parnas introduced the key concept of modularity and information hiding in 1972[9] to help programmers deal with the ever increasing complexity of software systems. A software system for managing the hardware called an operating system was also introduced, most notably by Unix in 1969. In 1967, the Simula language introduced the object-oriented programming paradigm.
+These advances in software were met with more advances in computer hardware. In the mid 1970s, the microcomputer was introduced, making it economical for hobbyists to obtain a computer and write software for it. This in turn lead to the now famous Personal Computer or PC and Microsoft Windows. The Software Development Life Cycle or SDLC was also starting to appear as a consensus for centralized construction of software in the mid 1980s. The late 1970s and early 1980s saw the introduction of several new Simula-inspired object-oriented programming languages, including C++, Smalltalk, and Objective C.
+Open-source software started to appear in the early 90s in the form of Linux and other software introducing the "bazaar" or decentralized style of constructing software.[10] Then the Internet and World Wide Web hit in the mid 90s changing the engineering of software once again. Distributed Systems gained sway as a way to design systems and the Java programming language was introduced as another step in abstraction having its own virtual machine. Programmers collaborated and wrote the Agile Manifesto that favored more light weight processes to create cheaper and more timely software.
+The current definition of software engineering is still being debated by practitioners today as they struggle to come up with ways to produce software that is "cheaper, bigger, quicker".
+Profession
+While some areas, such as Alberta, Ontario,[11] and Quebec, Canada, license software engineers, most places in the world have no laws regarding the profession of software engineers. Yet there are some guides from the IEEE Computer Society and the ACM, the two main professional organizations of software engineering. The IEEE's Guide to the Software Engineering Body of Knowledge - 2004 Version or SWEBOK defines the field and gives a coverage of the knowledge practicing software engineers should have. There is also an IEEE "Software Engineering Code of Ethics".[12] In addition, there is a Software and Systems Engineering Vocabulary (SEVOCAB),[13] published on-line by the IEEE Computer Society.
+In the UK, the British Computer Society licenses software engineers and members of the society can also become Chartered Engineers (CEng), while in Canada, software engineers can hold the Professional Engineer (P.Eng)designation and/or the Information Systems Professional (I.S.P.) designation; however, there is no legal requirement to have these qualifications.
+Employment
+In 2004, the U. S. Bureau of Labor Statistics counted 760,840 software engineers holding jobs in the U.S.; in the same time period there were some 1.4 million practitioners employed in the U.S. in all other engineering disciplines combined.[14] Due to its relative newness as a field of study, formal education in software engineering is often taught as part of a computer science curriculum, and as a result most software engineers hold computer science degrees.[15]
+Most software engineers work as employees or contractors. Software engineers work with businesses, government agencies (civilian or military), and non-profit organizations. Some software engineers work for themselves as freelancers. Some organizations have specialists to perform each of the tasks in the software development process. Other organizations require software engineers to do many or all of them. In large projects, people may specialize in only one role. In small projects, people may fill several or all roles at the same time. Specializations include: in industry (analysts, architects, developers, testers, technical support, managers) and in academia (educators, researchers).
+There is considerable debate over the future employment prospects for software engineers and other IT professionals. For example, an online futures market called the "ITJOBS Future of IT Jobs in America"[16] attempts to answer whether there will be more IT jobs, including software engineers, in 2012 than there were in 2002.
+Certification
+Professional certification of software engineers is a contentious issue. Some see it as a tool to improve professional practice; "The only purpose of licensing software engineers is to protect the public".[17]
+The ACM had a professional certification program in the early 1980s,[citation needed] which was discontinued due to lack of interest. The ACM examined the possibility of professional certification of software engineers in the late 1990s, but eventually decided that such certification was inappropriate for the professional industrial practice of software engineering.[18] As of 2006[update], the IEEE had certified over 575 software professionals.[19] In the U.K. the British Computer Society has developed a legally recognized professional certification called Chartered IT Professional (CITP), available to fully qualified Members (MBCS). In Canada the Canadian Information Processing Society has developed a legally recognized professional certification called Information Systems Professional (ISP)[20]. The Software Engineering Institute offers certification on specific topic such as Security, Process improvement and Software architecture[21].
+Most certification programs in the IT industry are oriented toward specific technologies, and are managed by the vendors of these technologies.[22] These certification programs are tailored to the institutions that would employ people who use these technologies.
+Impact of globalization
+Many students in the developed world have avoided degrees related to software engineering because of the fear of offshore outsourcing (importing software products or services from other countries) and of being displaced by foreign visa workers.[23] Although government statistics do not currently show a threat to software engineering itself; a related career, computer programming does appear to have been affected.[24][25] Often one is expected to start out as a computer programmer before being promoted to software engineer. Thus, the career path to software engineering may be rough, especially during recessions.
+Some career counselors suggest a student also focus on "people skills" and business skills rather than purely technical skills because such "soft skills" are allegedly more difficult to offshore.[26] It is the quasi-management aspects of software engineering that appear to be what has kept it from being impacted by globalization.[27]
+Education
+A knowledge of programming is the main pre-requisite to becoming a software engineer, but it is not sufficient. Many software engineers have degrees in Computer Science due to the lack of software engineering programs in higher education. However, this has started to change with the introduction of new software engineering degrees, especially in post-graduate education. A standard international curriculum for undergraduate software engineering degrees was defined by the CCSE.
+Steve McConnell opines that because most universities teach computer science rather than software engineering, there is a shortage of true software engineers.[28] In 2004 the IEEE Computer Society produced the SWEBOK, which has become an ISO standard describing the body of knowledge covered by a software engineer[citation needed].
+The European Commission within the Erasmus Mundus Programme offers a European master degree called European Master on Software Engineering for students from Europe and also outside Europe[29]. This is a joint program (double degree) involving 4 universities in Europe.
+Sub-disciplines
+Software engineering can be divided into ten subdisciplines. They are:[1]
+Software requirements: The elicitation, analysis, specification, and validation of requirements for software.
+Software design: The design of software is usually done with Computer-Aided Software Engineering (CASE) tools and use standards for the format, such as the Unified Modeling Language (UML).
+Software development: The construction of software through the use of programming languages.
+Software testing
+Software maintenance: Software systems often have problems and need enhancements for a long time after they are first completed. This subfield deals with those problems.
+Software configuration management: Since software systems are very complex, their configuration (such as versioning and source control) have to be managed in a standardized and structured method.
+Software engineering management: The management of software systems borrows heavily from project management, but there are nuances encountered in software not seen in other management disciplines.
+Software development process: The process of building software is hotly debated among practitioners with the main paradigms being agile or waterfall.
+Software engineering tools, see Computer Aided Software Engineering
+Software quality
+Related disciplines
+Software engineering is related to the disciplines of computer science, project management, and systems engineering.[30][31]
+Computer science
+Software engineering is considered a subfield of computer science by many academics. Many of the foundations of software engineering come from computer science.
+Project management
+The building of a software system is usually considered a project and the management of it borrows many principles from the field of Project management.
+Systems engineering
+Systems engineers have been dealing with the complexity of large systems for many decades and their knowledge is applied to many software engineering problems.
+See also
+Template:Multicol
+Software Craftsmanship
+List of basic software engineering topics
+List of software engineering conferences
+List of software engineering publications
+List of software engineering topics
+Bachelor of Software Engineering
+Bachelor of Science in Information Technology
+Template:Multicol-break
+Engineering portal
+Speed1c.png portal
+Software portal
+Crystal Clear device cdrom unmount.png portal
+Software Testing portal
+Template:Multicol-end
+References
+^ a b SWEBOK executive editors, Alain Abran, James W. Moore ; editors, Pierre Bourque, Robert Dupuis. (2004). Pierre Bourque and Robert Dupuis, eds. Guide to the Software Engineering Body of Knowledge - 2004 Version. IEEE Computer Society. p. 1–1. ISBN 0-7695-2330-7.  CS1 maint: Multiple names: authors list (link) CS1 maint: Uses editors parameter (link)
+^ Peter, Naur; Brian Randell (7–11 October 1968). Software engineering: Report of a conference sponsored by the NATO Science Committee (PDF). Garmisch, Germany: Scientific Affairs Division, NATO. Retrieved 2008-12-26.  Cite uses deprecated parameter |coauthors= (help)
+^ Randell, Brian (10 Aug 2001). "The 1968/69 NATO Software Engineering Reports". Brian Randell's University Homepage. The School of the Computer Sciences, Newcastle University. Retrieved 2008-10-11. The idea for the first NATO Software Engineering Conference, and in particular that of adopting the then practically unknown term "software engineering" as its (deliberately provocative) title, I believe came originally from Professor Fritz Bauer. 
+^ The end of software engineering and the start of economic-cooperative gaming
+^ 35 years on: to what extent has software engineering design achieved its goals?
+^ Kalwarski, Tara; Daphne Mosher, Janet Paskin and Donna Rosato (2006). "Best Jobs in America". MONEY Magazine. CNN. Retrieved 2006-04-20.  Cite uses deprecated parameter |coauthors= (help)
+^ Leondes (2002). intelligent systems: technology and applications. CRC Press. ISBN 9780849311215. 
+^ Dijkstra, E. W. (1968). "Go To Statement Considered Harmful" (PDF). Communications of the ACM. 11 (3): 147–148. Retrieved 2009-08-10.  Unknown parameter |month= ignored (help)
+^ Parnas, David (1972). "On the Criteria To Be Used in Decomposing Systems into Modules". Communications of the ACM. 15 (12): 1053–1058. doi:10.1145/361598.361623. Retrieved 2008-12-26.  Unknown parameter |month= ignored (help)
+^ Raymond, Eric S. The Cathedral and the Bazaar. ed 3.0. 2000.
+^ Williams, N.S.W. (19–21 Feb 2001). "Professional Engineers Ontario's approach to licensing software engineering practitioners". Software Engineering Education and Training, 2001 Proceedings. 14th Conference on. Charlotte, NC: IEEE. pp. 77–78.  CS1 maint: Date format (link)
+^ Software Engineering Code of Ethics
+^ Software and Systems Engineering Vocabulary, computer.org
+^ Bureau of Labor Statistics, U.S. Department of Labor, USDL 05-2145: Occupational Employment and Wages, November 2004, Table 1.
+^ "Software Engineering". Retrieved 2008-02-01. 
+^ Future of IT Jobs in America
+^ Kruchten, Philippe, "Licensing Software Engineers?", IEEE SOFTWARE nov/dec 2008
+^ ACM (July 17, 2000). "A Summary of the ACM Position on Software Engineering as a Licensed Engineering Profession" (PDF). Association for Computing Machinery (ACM). Retrieved 2009-03-03. At its meeting in May 2000, the Council further concluded that the framework of a licensed professional engineer, originally developed for civil engineers, does not match the professional industrial practice of software engineering. Such licensing practices would give false assurances of competence even if the body of knowledge were mature; and would preclude many of the most qualified software engineers from becoming licensed.  line feed character in |quote= at position 82 (help)
+^ IEEE Computer Society. "2006 IEEE computer society report to the IFIP General Assembly" (PDF). Retrieved 2007-04-10. 
+^ Canadian Information Processing Society. "I.S.P. Designation". Retrieved 2007-03-15. 
+^ SEI certification page
+^ Wyrostek, Warren (March 14, 2008). "The Top 10 Problems with IT Certification in 2008". InformIT. Retrieved 2009-03-03. 
+^ As outsourcing gathers steam, computer science interest wanes
+^ Computer Programmers
+^ Software developer growth slows in North America | InfoWorld | News | 2007-03-13 | By Robert Mullins, IDG News Service
+^ Hot Skills, Cold Skills
+^ Dual Roles: The Changing Face of IT
+^ McConnell, Steve (July 10, 2003. Professional Software Development: Shorter Schedules, Higher Quality Products, More Successful Projects, Enhanced Careers. ISBN 978-0321193674.
+^ http://ec.europa.eu/education/programmes/mundus/index_en.html
+^ Ian Sommerville (2004). Software Engineering. 7th edition. Chapter 1. Bezien 20 Okt 2008.
+^ Table 2 in Chapter 1,"Guide to the Software Engineering Body of Knowledge". February 6, 2004. Retrieved 2008-02-21. 
+Further reading
+Pressman, Roger S (2005). Software Engineering: A Practitioner's Approach (6th ed.). Boston, Mass: McGraw-Hill. ISBN 0072853182. 
+Sommerville, Ian (2007) [1982]. Software Engineering (8th ed.). Harlow, England: Pearson Education. ISBN 0-321-31379-8. 
+Jalote, Pankaj (2005) [1991]. An Integrated Approach to Software Engineering (3rd ed.). Springer. ISBN 0-387-20881-X. 
+Ghezzi, Carlo (2003) [1991]. Fundamentals of Software Engineering (2nd (International) ed.). Pearson Education @ Prentice-Hall.  Unknown parameter |co-authors= ignored (help)
+External links
+Guide to the Software Engineering Body of Knowledge
+Computer Software Engineers - Definition and statistics from the U.S. Bureau of Labor Statistics
+IEEE Software Engineering Online
+A Student's Guide to Software Engineering Projects - a free online guide for students taking SE project courses

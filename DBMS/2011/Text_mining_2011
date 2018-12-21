@@ -1,0 +1,154 @@
+Text mining
+Text mining, sometimes alternately referred to as text data mining, roughly equivalent to text analytics, refers to the process of deriving high-quality information from text. High-quality information is typically derived through the devising of patterns and trends through means such as statistical pattern learning. Text mining usually involves the process of structuring the input text (usually parsing, along with the addition of some derived linguistic features and the removal of others, and subsequent insertion into a database), deriving patterns within the structured data, and finally evaluation and interpretation of the output. 'High quality' in text mining usually refers to some combination of relevance, novelty, and interestingness. Typical text mining tasks include text categorization, text clustering, concept/entity extraction, production of granular taxonomies, sentiment analysis, document summarization, and entity relation modeling (i.e., learning relations between named entities).
+
+Contents
+1 History
+2 Applications
+
+2.1 Security applications
+2.2 Biomedical applications
+2.3 Software and applications
+2.4 Online media applications
+2.5 Marketing applications
+2.6 Sentiment analysis
+2.7 Academic applications
+
+
+2.1 Security applications
+2.2 Biomedical applications
+2.3 Software and applications
+2.4 Online media applications
+2.5 Marketing applications
+2.6 Sentiment analysis
+2.7 Academic applications
+3 Notable software and applications
+
+3.1 Commercial
+3.2 Free libre open-source
+
+
+3.1 Commercial
+3.2 Free libre open-source
+4 Implications
+5 See also
+6 Notes
+7 References
+8 External links
+
+History
+Labor-intensive manual text mining approaches first surfaced in the mid-1980s, but technological advances have enabled the field to advance during the past decade. Text mining is an interdisciplinary field that draws on information retrieval, data mining, machine learning, statistics, and computational linguistics. As most information (common estimates say over 80%)[1] is currently stored as text, text mining is believed to have a high commercial potential value. Increasing interest is being paid to multilingual data mining: the ability to gain information across languages and cluster similar items from different linguistic sources according to their meaning.
+Applications
+Recently, text mining has received attention in many areas.
+Security applications
+Many text mining software packages are marketed for security applications, especially analysis of plain text sources such as Internet news. It also involves in the study of text encryption.
+Biomedical applications
+A range of text mining applications in the biomedical literature has been described.[2]
+The more important online text mining application in the biomedical literature is GoPubMed.[3] GoPubmed was actually the first semantic search engine on the Web. Other example is PubGene that combines biomedical text mining with network visualization as an Internet service.[4]
+Software and applications
+Text mining methods and software is also being researched and developed by major firms, including IBM and Microsoft, to further automate the mining and analysis processes, and by different firms working in the area of search and indexing in general as a way to improve their results. Within public sector much effort has been concentrated on creating software for tracking and monitoring terrorist activities.[5]
+Online media applications
+Text mining is being used by large media companies, such as the Tribune Company, to disambiguate information and to provide readers with greater search experiences, which in turn increases site "stickiness" and revenue. Additionally, on the back end, editors are benefiting by being able to share, associate and package news across properties, significantly increasing opportunities to monetize content.
+Marketing applications
+Text mining is starting to be used in marketing as well, more specifically in analytical customer relationship management. Coussement and Van den Poel (2008)[6] apply it to improve predictive analytics models for customer churn (customer attrition).[7]
+Sentiment analysis
+Sentiment analysis may involve analysis of movie reviews for estimating how favorable a review is for a movie.[8] Such an analysis may need a labeled data set or labeling of the affectivity of words. Resources for affectivity of words and concepts have been made for WordNet[9] and ConceptNet,[10] respectively.
+Text has been used to detect emotions in the related area of affective computing ,[11] e.g., sentic computing.[12] Text based approaches to affective computing have been used on multiple corpora such as students evaluations, children stories and news stories.
+Academic applications
+The issue of text mining is of importance to publishers who hold large databases of information needing indexing for retrieval. This is especially true in scientific disciplines, in which highly specific information is often contained within written text. Therefore, initiatives have been taken such as Nature's proposal for an Open Text Mining Interface (OTMI) and the National Institutes of Health's common Journal Publishing Document Type Definition (DTD) that would provide semantic cues to machines to answer specific queries contained within text without removing publisher barriers to public access.
+Academic institutions have also become involved in the text mining initiative:
+The National Centre for Text Mining (NaCTeM), is the first publicly funded text mining centre in the world. NaCTeM is operated by the University of Manchester[13] in close collaboration with the Tsujii Lab,[14] University of Tokyo.[15] NaCTeM provides customised tools, research facilities and offers advice to the academic community. They are funded by the Joint Information Systems Committee (JISC) and two of the UK Research Councils (EPSRC & BBSRC). With an initial focus on text mining in the biological and biomedical sciences, research has since expanded into the areas of social sciences.
+In the United States, the School of Information at University of California, Berkeley is developing a program called BioText to assist biology researchers in text mining and analysis.
+Notable software and applications
+Text mining computer programs are available from many commercial and open source companies and sources.
+Commercial
+AeroText – provides a suite of text mining applications for content analysis. Content used can be in multiple languages.
+Attensity – hosted, integrated and stand-alone text mining (analytics) software that uses natural language processing technology to address collective intelligence in social media and forums; the voice of the customer in surveys and emails; customer relationship management; e-services; research and e-discovery; risk and compliance; and intelligence analysis.
+Autonomy – suite of text mining, clustering and categorization solutions for a variety of industries.
+Basis Technology – provides a suite of text analysis modules to identify language, enable search in more than 20 languages, extract entities, and efficiently search for and translate entities.
+Clarabridge – offers SaaS, Hosted or on premise sentiment and text analytics (text mining) software solutions that utilizes natural language (NLP), machine learning, clustering and categorization to extract insights from unstructured and structured data.
+Endeca Technologies – provides software to analyze and cluster unstructured text.
+Expert System S.p.A. – suite of semantic technologies and products for developers and knowledge managers.
+Fair Isaac – leading provider of decision management solutions powered by advanced analytics (includes text analytics).
+Inxight – provider of text analytics, search, and unstructured visualization technologies. (Inxight was bought by Business Objects that was bought by SAP AG in 2008).
+LanguageWare – text analysis libraries and customization tooling from IBM.
+Language Computer Corporation – provides a suite of customizable text extraction and analysis tools, available in multiple languages.
+LexisNexis – provider of business intelligence solutions based on an extensive news and company information content set. Through the recent acquisition of Datops LexisNexis is leveraging its search and retrieval expertise to become a player in the text and data mining field.
+Mathematica – provides built in tools for text alignment, pattern matching, clustering and semantic analysis.
+SAS – solutions including SAS Text Miner and Teragram; commercial text analytics, natural language processing, and taxonomy software leveraged for Information Management. SAS Text Miner rated as the third most used text mining software (9%) by Rexer's Annual Data Miner Survey in 2010.[16]
+IBM SPSS – provider of IBM SPSS Modeler and IBM SPSS Text Analytics (now called IBM SPSS Modeler Premium).[17] Rated as the second (17%) and fourth (7%), respectively, most used text mining software by Rexer's Annual Data Miner Survey in 2010.[16]
+StatSoft – provides STATISTICA Text Miner as an optional extension to STATISTICA Data Miner, for Predictive Analytics Solutions. Rated as the top used text mining software (19%) by Rexer's Annual Data Miner Survey in 2010.[16]
+Thomson Data Analyzer – enables complex analysis on patent information, scientific publications and news.
+Free libre open-source
+Carrot2 – text and search results clustering framework.
+GATE – natural language processing and language engineering tool.
+OpenNLP - natural language processing
+Natural Language Toolkit (NLTK) – a suite of libraries and programs for symbolic and statistical natural language processing (NLP) for the Python programming language.
+RapidMiner with its Text Processing Extension – data and text mining software. Rated as the fifth most used text mining software (6%) by Rexer's Annual Data Miner Survey in 2010.[16]
+Unstructured Information Management Architecture (UIMA) – a component framework to analyze unstructured content such as text, audio and video, originally developed by IBM.
+Knime - Open Source Data Mining Tool with an experimental Textprocessing-Extension [18]
+Implications
+Until recently, websites most often used text-based searches, which only found documents containing specific user-defined words or phrases. Now, through use of a semantic web, text mining can find content based on meaning and context (rather than just by a specific word).
+Additionally, text mining software can be used to build large dossiers of information about specific people and events. For example, large datasets based on data extracted from news reports can be built to facilitate social networks analysis or counter-intelligence. In effect, the text mining software may act in a capacity similar to an intelligence analyst or research librarian, albeit with a more limited scope of analysis.
+Text mining is also used in some email spam filters as a way of determining the characteristics of messages that are likely to be advertisements or other unwanted material.
+See also
+Approximate nonnegative matrix factorization, an algorithm used for text mining
+BioCreative text mining evaluation in biomedical literature
+Business intelligence
+Computational linguistics
+Concept Mining
+Data mining
+Information retrieval
+Name resolution
+National Centre for Text Mining (NaCTeM)
+Natural language processing
+Stop words
+Text analytics
+Text classification sometimes is considered a (sub)task of text mining.
+OpenNLP Java NLP library from Apache
+UIMA Unstructured Information Management Architecture from IBM.
+Web mining, a task that may involve text mining (e.g. first find appropriate web pages by classifying crawled web pages, then extract the desired information from the text content of these pages considered relevant).
+w-shingling
+Notes
+^ Unstructured Data and the 80 Percent Rule
+^ K. Bretonnel Cohen & Lawrence Hunter (2008). "Getting Started in Text Mining". PLoS Computational Biology. 4 (1): e20. doi:10.1371/journal.pcbi.0040020. PMC 2217579. PMID 18225946.  Unknown parameter |month= ignored (help)
+^ GoPubMed: exploring PubMed with the Gene Ontology, A. Doms and M. Schroeder, 2005, http://nar.oxfordjournals.org/content/33/suppl_2/W783.long
+^ Tor-Kristian Jenssen, Astrid Lægreid, Jan Komorowski1 & Eivind Hovig (2001). "A literature network of human genes for high-throughput analysis of gene expression". Nature Genetics. 28 (1): 21–28. doi:10.1038/ng0501-21. PMID 11326270.  CS1 maint: Multiple names: authors list (link)
+
+Summary: Daniel R. Masys (2001). "Linking microarray data to the literature". Nature Genetics. 28 (1): 9–10. doi:10.1038/ng0501-9. PMID 11326264. 
+
+
+Summary: Daniel R. Masys (2001). "Linking microarray data to the literature". Nature Genetics. 28 (1): 9–10. doi:10.1038/ng0501-9. PMID 11326264. 
+^ Texor
+^ Academic Papers about Analytical Customer Relationship Management
+^ Kristof Coussement, and Dirk Van den Poel (2008). "Integrating the Voice of Customers through Call Center Emails into a Decision Support System for Churn Prediction". Information and Management.  Unknown parameter |month= ignored (help)
+^ Bo Pang, Lillian Lee, and Shivakumar Vaithyanathan (2002). "Thumbs up? Sentiment Classification using Machine Learning Techniques" (PDF). Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP). pp. 79–86.  CS1 maint: Multiple names: authors list (link)
+^ Alessandro Valitutti, Carlo Strapparava, Oliviero Stock (2005). "Developing Affective Lexical Resources" (PDF). Psychology Journal. 2 (1): 61–83.  CS1 maint: Multiple names: authors list (link)
+^ Erik Cambria; Robert Speer, Catherine Havasi and Amir Hussain (2010). "SenticNet: a Publicly Available Semantic Resource for Opinion Mining" (PDF). Proceedings of AAAI CSK. pp. 14–18.  Cite uses deprecated parameter |coauthors= (help)
+^ Rafael A. Calvo, Sidney K. D'Mello (2010). "Affect Detection: An Interdisciplinary Review of Models,Methods, and their Applications". IEEE Transactions on Affective Computing. 1 (1): 18–37. 
+^ Cambria, Erik (2012). Roelandse, Martijn, ed. Sentic Computing: Techniques, Tools and Applications. Berlin: Springer-Verlag. 
+^ The University of Manchester
+^ Tsujii Laboratory
+^ The University of Tokyo
+^ a b c d Rexer Analytics 4th Annual Data Miner Survey - 2010
+^ IBM - SPSS - Software Products
+^ http://www.tech.knime.org/knime-text-processing-0
+References
+Ananiadou, S. and McNaught, J. (Editors) (2006). Text Mining for Biology and Biomedicine. Artech House Books. ISBN 978-1-58053-984-5
+Bilisoly, R. (2008). Practical Text Mining with Perl. New York: John Wiley & Sons. ISBN 978-0470176436
+Feldman, R., and Sanger, J. (2006). The Text Mining Handbook. New York: Cambridge University Press. ISBN 9780521836579
+Indurkhya, N., and Damerau, F. (2010). Handbook Of Natural Language Processing, 2nd Edition. Boca Raton, FL: CRC Press. ISBN 978-1420085921
+Kao, A., and Poteet, S. (Editors). Natural Language Processing and Text Mining. Springer. ISBN 184628175X
+Konchady, M. Text Mining Application Programming (Programming Series). Charles River Media. ISBN 1584504609
+Manning, C., and Schutze, H. (1999). Foundations of Statistical Natural Language Processing. Cambridge, MA: MIT Press. ISBN 978-0262133609
+McKnight, W. (2005). "Building business intelligence: Text data mining in business intelligence". DM Review, 21-22.
+Srivastava, A., and Sahami. M. (2009). Text Mining: Classification, Clustering, and Applications. Boca Raton, FL: CRC Press. ISBN 978-1420059403
+External links
+Marti Hearst: What Is Text Mining? (October, 2003)
+Categories
+Artificial intelligence applications
+Data mining
+Computational linguistics
+Data analysis
+Natural language processing
+Natural language processing toolkits
+Statistical natural language processing
